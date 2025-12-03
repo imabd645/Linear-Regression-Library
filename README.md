@@ -19,5 +19,5 @@ A simple **C++ Linear Regression library** for fitting a straight line to data, 
 Clone or download the repository:
 
 ```bash
-git clone https://github.com/yourusername/LinearRegressionLib.git
+git clone https://github.com/imabd645/Linear-Regression-Library.git
 cd LinearRegressionLib
